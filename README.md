@@ -1,5 +1,3 @@
-# dualsupply
-
 # Supply Chain Management System
 
 A web-based supply chain management system that focuses on labor shortage management, green optimization for transportation routes, and carbon emission monitoring.
